@@ -71,7 +71,7 @@ Hiérarchie d'Unités d'Organisation : `_USERS > Accounts` pour les comptes, `Gr
 
 **Automatisation PowerShell**
 
-![Script PowerShell](script_powershell.png)
+![Script PowerShell](script_powershell.png) 📄 [Voir le script PowerShell](Create_Users.ps1)
 
 Script de création automatique des utilisateurs et placement dans l'OU Accounts — gestion de masse sans erreur humaine.
 
